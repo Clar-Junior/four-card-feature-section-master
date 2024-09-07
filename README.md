@@ -38,8 +38,8 @@ Media screens: 1440px
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-master-Gz5tBG9AcR)
+- Live Site URL: [Github Pages](https://clar-junior.github.io/four-card-feature-section-master/)
 
 ## My process
 

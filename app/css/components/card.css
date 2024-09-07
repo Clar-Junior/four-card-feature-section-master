@@ -29,6 +29,9 @@
 .card-4 {
 	border-top: 4.5px solid var(--blue);
 }
+.title {
+	font-weight: 600;
+}
 .text {
 	color: var(--grayish-blue);
 }
